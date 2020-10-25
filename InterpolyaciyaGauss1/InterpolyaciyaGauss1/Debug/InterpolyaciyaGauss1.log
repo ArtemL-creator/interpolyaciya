@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Projects\InterpolyaciyaGauss1\InterpolyaciyaGauss1\Source.cpp(45,11): warning C4101: res: неиспользованная локальная переменная
+D:\Projects\InterpolyaciyaGauss1\InterpolyaciyaGauss1\Source.cpp(10): warning C4717: fact: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  InterpolyaciyaGauss1.vcxproj -> D:\Projects\InterpolyaciyaGauss1\Debug\InterpolyaciyaGauss1.exe
